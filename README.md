@@ -2,7 +2,8 @@
 A greenhouse is build based on calculations regarding the thermal processes. A configuration tool is used to define the dimensions. Temperature and irradiance data measured over a period of three weeks is compared to the calculated values. The resulting plots of measured vs. calculated temperatures show similar behaviour, but deviations in the greenhouse temperature peaks, e.g. due to constructive differences and simplified thermal processes. The interactive configurator is published as an open source tool and the greenhouse is built with sustainable components.
 
 
-![](graphics/SolarThermalColdframe.png) 
+![](graphics/SolarThermalColdframe_header.png)  
+
 Fig. 1: Greenhouse
 
 # Motivation & Goals
