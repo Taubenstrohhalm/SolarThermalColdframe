@@ -38,6 +38,7 @@ Deviations between model and measurement due to
 
 Achievement 
 * Solar greenhouse with sustainable component acquisition
-
+* Interactive configurator tool ( Jupyter Python notebook) available on:
+https://github.com/Taubenstrohhalm/SolarThermalColdframe
 
 
