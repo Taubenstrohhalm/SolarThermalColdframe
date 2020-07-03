@@ -34,8 +34,9 @@ Fig.: Measured data vs. calculated values
 Deviations between model and measurement due to
 * Constructive differences (e.g. geometry, material parameters)
 * Neglected / uncertain thermal processes (e.g. thermal mass of construction material, ventilation number)
-* Approximated irradiance measurement
-Achievements
+* Approximated irradiance measurement  
+
+Achievement 
 * Solar greenhouse with sustainable component acquisition
 
 
