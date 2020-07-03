@@ -1,7 +1,9 @@
 # Abstract
-A greenhouse is build based on calculations regarding the thermal processes in a Jupyter notebook (Python) to provide a configuration tool for used materials and dimensions. Temperature and irradiance data measured over a period of three weeks is compared to the calculated values. The resulting plots of measured vs. calculated temperatures show similar behaviour, but deviations in the greenhouse temperature peaks, e.g. due to constructive differences and simplified thermal processes. The improved configurator is published as an open source tool and the greenhouse is built with sustainable components.
+A greenhouse is build based on calculations regarding the thermal processes. A configuration tool is used to define the dimensions. Temperature and irradiance data measured over a period of three weeks is compared to the calculated values. The resulting plots of measured vs. calculated temperatures show similar behaviour, but deviations in the greenhouse temperature peaks, e.g. due to constructive differences and simplified thermal processes. The interactive configurator is published as an open source tool and the greenhouse is built with sustainable components.
+
 
 ![](graphics/SolarThermalColdframe.png) 
+Fig. 1: Greenhouse
 
 # Motivation & Goals
 
@@ -14,22 +16,23 @@ A greenhouse is build based on calculations regarding the thermal processes in a
 # Thermal Model
 
 ![](graphics/HeatTransferMechanisms.png) 
-Fig.: Heat transfer mechanisms
+Fig.2: Heat transfer mechanisms
 ![](graphics/ThermalNetwork.png) 
-Fig.: Thermal Network
+Fig.3: Thermal Network
 
 # Interactive jupyter notebook
 
 ![](graphics/FlowChart.png) 
-Fig.: Flow Chart
+Fig.4: Flow Chart
 
 ![](graphics/UserInterfaceNotebook.png) 
-Fig.: User Interface of the configurator
+Fig.5: User Interface of the configurator
 
 
 # Evaluation & Conclusion
-![](graphics/Evaluation.png) 
-Fig.: Measured data vs. calculated values
+![](graphics/temp_gh_v2.png)
+![](graphics/temp_storage_v2.png) 
+Fig.6: Measured data vs. calculated values
 
 Deviations between model and measurement due to
 * Constructive differences (e.g. geometry, material parameters)
@@ -38,6 +41,9 @@ Deviations between model and measurement due to
 
 Achievement 
 * Solar greenhouse with sustainable component acquisition
+* Interactive configurator tool (Jupyter notebook) available on:
+     https://github.com/Taubenstrohhalm/SolarThermalColdframe
+
 
 
 
