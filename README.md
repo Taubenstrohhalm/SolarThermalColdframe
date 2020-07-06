@@ -29,7 +29,8 @@ Fig.4: Flow Chart
 ![](graphics/UserInterfaceNotebook.png) 
 Fig.5: User Interface of the configurator
 
-
+You can try it online:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Taubenstrohhalm/SolarThermalColdframe/master)
 # Evaluation & Conclusion
 ![](graphics/temp_gh_v2.png)
 ![](graphics/temp_storage_v2.png) 
