@@ -17,11 +17,14 @@ Fig. 1: Greenhouse
 # Thermal Model
 
 ![](graphics/HeatTransferMechanisms.png) 
-Fig.2: Heat transfer mechanisms
+Fig.2: Heat transfer mechanisms:
+<span style="color:darkblue">convection</span>,
+<span style="color:darkred">conduction</span> and
+<span style="color:orange">radiation</span>.
 ![](graphics/ThermalNetwork.png) 
 Fig.3: Thermal Network
 
-# Interactive jupyter notebook
+# Interactive Jupyter Notebook
 
 ![](graphics/FlowChart.png) 
 Fig.4: Flow Chart
