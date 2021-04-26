@@ -4,7 +4,7 @@ A greenhouse is build based on calculations regarding the thermal processes. A c
 
 ![](graphics/SolarThermalColdframe_header.png)  
 
-Fig. 1: Greenhouse
+Fig. 1: Greenhouse 
 
 # Motivation & Goals
 
@@ -12,7 +12,7 @@ Fig. 1: Greenhouse
 * Low budget components
 * Low impact materials
 * Solar energy driven
-* Configurator tool for easy reconstruction based on a thermal model
+* Configuration tool for easy reconstruction based on a thermal model
 
 # Thermal Model
 
